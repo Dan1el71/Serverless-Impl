@@ -1,4 +1,3 @@
-// src/models/counterModel.ts
 import { TableClient } from '@azure/data-tables'
 import { CounterEntity } from '../types'
 
